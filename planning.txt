@@ -1,0 +1,24 @@
+Book my show planning
+
+1. we need  a reusable carousel
+
+  ->hero carousel (big one)
+  -> common carousel (small one)
+  -> Cast and crew small carousel
+
+
+2. pages we will built
+
+-> Home page
+-> Movie page
+-> Categories page
+-> Auth page
+
+3. Razor Pay as a payment gateway
+
+
+Planning: 
+1. Layouts
+2. Routes
+3. pages
+4. Components
